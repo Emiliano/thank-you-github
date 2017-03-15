@@ -525,3 +525,24 @@ Signed,
 - Debashish Nayak ([@theindianotaku](https://github.com/theindianotaku)), Designer, Metallurgical and Materials Engg Undergraduate at IIT Roorkee, India.
 - Rohith A.S.R.K. ([@rohithasrk](https://github.com/rohithasrk)), Developer, Undergrad at IIT Roorkee, India.
 - Jinwei Zhao ([@clarkzjw](https://github.com/clarkzjw)), Developer.
+- Tazz ([@s0cks](https://github.com/s0cks)), Software Engineer at The Nerdery, Chicago Illinois
+- Sasidhar Kumar M ([@sasidharkm](https://github.com/SasiDharKM)), Developer, UnderGrad at NIT Trichy, India
+- Mohammad Reza Maghoul ([@IVIR3zaM](https://github.com/IVIR3zaM)), Software Engineer
+- Aviral Verma ([@Aviral1701](https://github.com/Aviral1701)), Developer, Undergrad at IIT Roorkee, India.
+- Naz ([@nazcompile](https://github.com/nazcompile)), Software Engineer
+- Sanju Prabhath Reddy([@spredk](https://github.com/spredk)),Developer, ML entusiast , Undergraduate IIT Roorkee, India.
+- MRW Neundorf ([@naxmefy](https://github.com/naxmefy)), just a dev, Germany
+- Ben ([@benjibobs](https://github.com/benjibobs)), Developer, Student, United Kingdom
+- Ben Goldberg ([@zethra](https://github.com/benjibobs)), Developer, Undergraduate at RIT, New York.
+- Zsolt Kocsi ([@zsoltk](https://github.com/zsoltk)), Software Engineer
+- Aritra Roy ([@aritraroy](https://github.com/aritraroy)), Android Developer, India.
+- Rahul Chowdhury ([@rahulchowdhury](https://github.com/rahulchowdhury)), Android App Baker
+- Fábio Assunção ([@fabioassuncao](https://github.com/fabioassuncao)), Full Stack Web Developer, Brazil
+- Debanjan Basu ([@debanjan-basu](https://github.com/debanjan-basu)), Software Developer, Muscat, Oman
+- MD Danish Ansari ([@mddanishansari](https://github.com/mddanishansari)), Android Developer, India
+- Urmanschi Mihail  ([@dsdmsa](https://github.com/dsdmsa)), Android Developer
+- Thomas Orth ([@atf1999](https://github.com/atf1999)), Android and Web developer
+- Priyanshu Jain ([@priyanshujain](https://github.com/priyanshujain)), Student Researcher, Guru Ghasidas University,India
+- 杨伟庆 Wayne Yang([@wengzhong2001](https://github.com/wengzhong2001)), Software Engineer & Project Manager, Guangzhou, China
+- Priyank Agarwal ([@priyank1205](https://github.com/priyank1205)), Student, Design, Indian Institute of Technology, Guwahati
+- Lucas Michot ([@lucasmichot](https://github.com/lucasmichot)), Web architect, Core ([Homebrew](https://github.com/homebrew)) contributor
